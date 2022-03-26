@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm Jason Pereira, currently pursuing a Masters of Science in Computer Science at the University of Illinois at Chicago. 
 
+Previously, I was a software engineer at Zaya Labs.
+
 ## Courses I'm enrolled in
 - Object Oriented Languages and Environments
 - Principles of Concurrency
