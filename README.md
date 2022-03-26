@@ -25,5 +25,5 @@ I'm Jason Pereira, currently pursuing a Masters of Science in Computer Science a
 
 🌱 I’m currently learning Scala.
 
-I'm also looking out for summer internships.
+I'm also looking out for summer internships.  
 📫 Reach out to me at: jasonpereira074@gmail.com
