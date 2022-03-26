@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **jasonpereira96/jasonpereira96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Jason Pereira, currently pursuing a Masters of Science in Computer Science at the University of Illinois at Chicago. 
+
+## Courses I'm enrolled in
+- Object Oriented Languages and Environments
+- Principles of Concurrency
+- Database Management Systems
+
+
+🌱 I’m currently learning Scala.
+
+I'm also looking out for summer internships.
+📫 Reach out to me at: jasonpereira074@gmail.com
